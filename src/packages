@@ -1,0 +1,17 @@
+base
+base-devel
+avahi
+bash-completion
+bat
+curl
+fd
+git
+htop
+neovim
+nss-mdns
+stow
+tldr
+tmux
+tree
+ufw
+wget
