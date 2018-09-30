@@ -2,7 +2,7 @@
 
 Small project to generate a custom [Arch Linux](https://www.archlinux.org/)
 live image using [Archiso](https://wiki.archlinux.org/index.php/Archiso).
-Largely intended as a starting point for [Archer]().
+Largely intended as a starting point for [Archer](https://github.com/zwolbers/archer).
 
 ```console
 # pacman -S archiso
